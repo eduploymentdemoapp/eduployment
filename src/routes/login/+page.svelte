@@ -33,9 +33,9 @@
                                     <div class="mb-3">
                                         <label for="form-login.password">Password</label>
                                         <input id="form-login.password" class="form-control form-control-lg" type="password" name="password" placeholder="Enter your password" />
-                                        <small>
+                                        <!-- <small>
                                             <a href="/forgot-password">Forgot password?</a>
-                                        </small>
+                                        </small> -->
                                     </div>
                                     <div>
                                         <div class="form-check align-items-center">
