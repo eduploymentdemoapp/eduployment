@@ -2,6 +2,9 @@
 
 This repository contains a test project for **Eduployment**. It includes the core functionality for managing users, as well as email-related functionality for sending password reset links.
 
+email: eduploymentdemoapp@gmail.com
+password: \9H?r-tjT]h#D
+
 ## Setup Instructions
 
 ### 1. Clone the Repository
